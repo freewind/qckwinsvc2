@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/suyeonORG/qckwinsvc2#readme",
   "dependencies": {
-    "node-windows": "^1.0.0-beta.5"
+    "node-windows": "1.0.0-beta.6"
   }
 }
